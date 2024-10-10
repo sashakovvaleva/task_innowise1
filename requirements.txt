@@ -1,0 +1,13 @@
+attrs==24.2.0
+dicttoxml==1.7.16
+jsonschema==4.23.0
+jsonschema-specifications==2023.12.1
+numpy==2.1.1
+pandas==2.2.3
+psycopg2==2.9.9
+python-dateutil==2.9.0.post0
+pytz==2024.2
+referencing==0.35.1
+rpds-py==0.20.0
+six==1.16.0
+tzdata==2024.2
